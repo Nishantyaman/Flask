@@ -1,1 +1,1 @@
-Blog using Flask 
+Blog using Flask framework in python
